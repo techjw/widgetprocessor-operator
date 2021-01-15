@@ -1,0 +1,7 @@
+apiVersion: widget.redhat-demo.com/v1
+kind: WidgetProcessor
+metadata:
+  name: widgetprocessor-sample
+spec:
+  # Add fields here
+  foo: bar
