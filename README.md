@@ -1,0 +1,2 @@
+# widgetprocessor-operator
+WidgetProcessor Operator
